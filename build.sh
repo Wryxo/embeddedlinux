@@ -6,5 +6,6 @@ make qemu_arm_mediaplayer_defconfig
 make
 cp ../startup.sh ./output/images/
 cp ../mdev.conf ./output/target/etc
-cp ../hraj.sh ./output/target/
+mkdir -p ./output/target/lib/mdev/automount/
+cp ../hraj.sh ./output/target/lib/mdev/automount/
 make
