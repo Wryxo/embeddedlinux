@@ -1,0 +1,2 @@
+Skvely predmet, bohuzial ten hardware by bol naozaj velmi napomocny :)
+Mal som ale pocit ze niekedy sa rozoberali veci dost podrobne a zas na niektore sa trochu prizabudlo (nastavenie mdev, rozbehanie USB portov v qemu), ale to bolo naozaj tym ze to bol prvy rok a verim ze sa to vylepsi :)
